@@ -65,25 +65,25 @@ export interface IPuzzle {
 export const puzzleData: IPuzzle[] = [
 	{
 		id: 1,
-		image: "https://skhcn.bacninh.gov.vn/documents/22549/69518/Hanh-tinh-thang-hang-2878-1710840354.jpg/c655ed90-327f-d1b4-1b66-c323a7c69046?t=1711122067305",
+		image: "https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/02wchouritvxqgixxoeagap-2.fit-scale.size-760x427.v1569482197_ver_1.jpg",
 		mode: EMode.EASY,
 		result: ["1", "8", "3"],
 	},
 	{
 		id: 4,
-		image: "https://demo.org.vn/wp-content/uploads/2021/03/1-co-bao-nhieu-hanh-tinh-trong-he-mat-troi.jpg",
+		image: "https://d1ng1bucl7w66k.cloudfront.net/ghost-blog/2022/04/Screen-Shot-2022-04-19-at-9.44.45-AM.png",
 		mode: EMode.EASY,
 		result: ["9", "2", "10"],
 	},
 	{
 		id: 2,
-		image: "https://lh3.googleusercontent.com/proxy/hHhQ34i3uDWO1apOJ-Cv7J0WkZsaduV1p97VYWhgIoHoYFxexkSTz7nP7Was_XLenCA_M1kooIbOjhRupif586CVJP7vm_OcoNd4jEwGjzTD_A_DFdiGJ8IW0GU801WAbk-dt7jqKZ7GcGQtW7S2xIBXZOUo",
+		image: "https://d1ng1bucl7w66k.cloudfront.net/ghost-blog/2022/04/Screen-Shot-2022-04-19-at-9.45.54-AM.png",
 		mode: EMode.MEDIUM,
 		result: ["5", "3", "2"],
 	},
 	{
 		id: 3,
-		image: "https://vnn-imgs-f.vgcloud.vn/2018/02/02/15/kham-pha-vong-trong-he-ma-t-tro-i-phan-2.jpg",
+		image: "https://d1ng1bucl7w66k.cloudfront.net/ghost-blog/2022/04/Screen-Shot-2022-04-19-at-9.48.59-AM-1.png",
 		mode: EMode.HARD,
 		result: ["7", "10", "9"],
 	},

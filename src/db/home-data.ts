@@ -210,132 +210,119 @@ export const commonData: IObjectData = {
     id: "1",
     image:
       "https://dienmattroigio.com/wp-content/uploads/2022/11/trai-dat-va-mat-troi.jpg",
-    title: "Mặt Trời - Ngôi Sao Trung Tâm Của Hệ Mặt Trời",
-    description:
-      "Mặt Trời, ngôi sao trung tâm của Hệ Mặt Trời, là nguồn năng lượng chính của Trái Đất và các hành tinh xung quanh. Đây là một quả cầu lửa khổng lồ, cung cấp ánh sáng và nhiệt lượng, duy trì sự sống trên Trái Đất và đóng vai trò quan trọng trong việc điều hòa khí hậu toàn cầu.",
-    content: [
-      {
-        title: "Cấu Tạo Và Đặc Điểm Của Mặt Trời",
-        body: [
-          "Mặt Trời là một ngôi sao loại G, thuộc dải Ngân Hà và cách Trái Đất khoảng 150 triệu km. Nó có đường kính khoảng 1,4 triệu km, lớn gấp 109 lần đường kính của Trái Đất. Mặt Trời được cấu tạo chủ yếu từ hydro (khoảng 74%) và heli (khoảng 24%), cùng một lượng nhỏ các nguyên tố nặng khác.",
-          "Bên trong Mặt Trời, quá trình nhiệt hạch diễn ra ở lõi, nơi nhiệt độ đạt tới khoảng 15 triệu độ C. Quá trình này biến đổi hydro thành heli, sản sinh ra năng lượng khổng lồ được truyền ra ngoài dưới dạng bức xạ và ánh sáng.",
-        ],
+      title: "Scratch là gì",
+      description:
+        "Scratch là một ngôn ngữ lập trình trực quan và môi trường phát triển được thiết kế chủ yếu cho trẻ em và người mới bắt đầu học lập trình.",
+      content: [
+        {
+          title: "Lịch Sử và Khởi Nguồn:",
+          body: [
+            "Nó được phát triển bởi Lifelong Kindergarten Group tại MIT Media Lab.",
+          ],
+          image:
+            "https://cdnphoto.dantri.com.vn/b0WWpuZsz9YTS_gI-Gp7Xet6sBs=/thumb_w/1020/2022/11/30/vutru-crop-1669768098200.jpeg",
+        },
+        {
+          title: "Đặc điểm nổi bật của Scratch",
+          body: [
+            "Giao diện kéo thả: Scratch sử dụng giao diện đồ họa trực quan, nơi người dùng có thể kéo và thả các khối lệnh vào một không gian làm việc để tạo chương trình. Điều này giúp người học dễ dàng tiếp cận và hiểu các khái niệm lập trình mà không cần viết mã phức tạp.",
+            "Khối lệnh mã màu: Các khối lệnh trong Scratch được mã hóa màu sắc theo chức năng, ví dụ như khối di chuyển có màu xanh, khối điều kiện có màu vàng, và khối âm thanh có màu tím. Điều này giúp người dùng dễ dàng nhận biết và sử dụng các khối lệnh khác nhau.",
+            "Tính tương tác cao: Scratch cho phép người dùng tạo ra các dự án có tính tương tác cao, bao gồm việc tạo ra các nhân vật (sprites), hình nền, âm thanh, và hiệu ứng động. Người dùng có thể lập trình các hành động và phản hồi của các đối tượng này để tạo ra các trò chơi và hoạt hình thú vị.",
+          ],
       },
-      {
-        title: "Các Lớp Cấu Tạo Của Mặt Trời",
-        body: [
-          "Lõi (Core): Đây là nơi diễn ra các phản ứng nhiệt hạch, nơi năng lượng được tạo ra.",
-          "Vùng bức xạ (Radiative Zone): Năng lượng từ lõi di chuyển qua vùng này dưới dạng bức xạ.",
-          "Vùng đối lưu (Convective Zone): Năng lượng tiếp tục di chuyển qua lớp này bằng dòng đối lưu, tạo ra các đợt chuyển động của khí nóng.",
-          "Phía ngoài của Mặt Trời bao gồm các lớp: quang quyển, sắc quyển và vành nhật hoa.",
-          "Quang quyển (Photosphere): Đây là bề mặt nhìn thấy của Mặt Trời, nơi phát ra ánh sáng.",
-          "Sắc quyển (Chromosphere): Một lớp mỏng bên trên quang quyển, thường chỉ thấy trong các hiện tượng nhật thực toàn phần.",
-          "Vành nhật hoa (Corona): Lớp ngoài cùng, có nhiệt độ cao, trải rộng ra không gian vũ trụ và chỉ nhìn thấy rõ trong nhật thực toàn phần.",
-        ],
-      },
-      {
-        title: "Tầm Quan Trọng Của Mặt Trời",
-        body: [
-          "Mặt Trời không chỉ cung cấp năng lượng và ánh sáng mà còn tạo ra các hiện tượng quan trọng như gió Mặt Trời và từ trường Mặt Trời. Gió Mặt Trời là dòng hạt tích điện di chuyển từ Mặt Trời ra không gian, ảnh hưởng đến từ trường của Trái Đất và tạo ra các hiện tượng như cực quang.",
-          "Từ trường Mặt Trời cũng gây ra các vết đen và lửa Mặt Trời, có thể ảnh hưởng đến khí hậu và các thiết bị điện tử trên Trái Đất.",
-        ],
-      },
-      {
-        title: "Vòng Đời Của Mặt Trời",
-        body: [
-          "Mặt Trời hiện đang ở giai đoạn chính của cuộc đời, giai đoạn đốt cháy hydro để sản sinh năng lượng.",
-          "Sau khoảng 5 tỷ năm nữa, Mặt Trời sẽ tiến vào giai đoạn sao khổng lồ đỏ, phình to và nuốt chửng các hành tinh gần kề như sao Thủy và sao Kim.",
-          "Cuối cùng, Mặt Trời sẽ suy yếu và biến thành sao lùn trắng.",
-        ],
-      },
-      {
-        title: "Ảnh Hưởng Đến Hệ Mặt Trời",
-        body: [
-          "Mặt Trời có ảnh hưởng quyết định đến tất cả các hành tinh trong Hệ Mặt Trời.",
-          "Nó giữ các hành tinh trong quỹ đạo bằng lực hấp dẫn của mình và điều chỉnh khí hậu của các hành tinh qua sự biến đổi năng lượng và ánh sáng.",
-        ],
-      },
-    ],
-  },
-  "2": {
-    id: "2",
-    image: "https://static.robocon.com.vn/api/images/20170426/i.jpg",
-    title: "Vành Đai Tiểu Hành Tinh - Vùng Không Gian Giữa Sao Hỏa Và Sao Mộc",
-    description:
-      "Vành Đai Tiểu Hành Tinh là vùng không gian nằm giữa quỹ đạo của sao Hỏa và sao Mộc, chứa hàng triệu tiểu hành tinh và mảnh vụn không gian. Khu vực này giữ nhiều thông tin quan trọng về sự hình thành và tiến hóa của Hệ Mặt Trời.",
-    content: [
-      {
-        title: "Cấu Tạo Và Đặc Điểm Của Vành Đai Tiểu Hành Tinh",
-        body: [
-          "Vành Đai Tiểu Hành Tinh nằm giữa quỹ đạo của sao Hỏa và sao Mộc, trải dài khoảng 1,5 triệu km.",
-          "Khu vực này chứa hàng triệu tiểu hành tinh với kích thước từ vài mét đến hàng trăm km. Các tiểu hành tinh này chủ yếu được cấu tạo từ đá và kim loại.",
-          "Một số tiểu hành tinh nổi bật trong vành đai này bao gồm Ceres, Vesta, Pallas và Hygiea. Ceres là tiểu hành tinh lớn nhất và được phân loại là hành tinh lùn.",
-        ],
-      },
-      {
-        title: "Nguồn Gốc Và Hình Thành",
-        body: [
-          "Vành Đai Tiểu Hành Tinh được cho là tàn dư từ quá trình hình thành Hệ Mặt Trời khoảng 4,6 tỷ năm trước.",
-          "Lực hấp dẫn mạnh mẽ từ sao Mộc ngăn cản các vật chất trong vành đai hợp nhất thành một hành tinh lớn.",
-          "Các tiểu hành tinh trong vành đai giữ lại nhiều thông tin quý giá về điều kiện nguyên thủy của Hệ Mặt Trời.",
-        ],
-      },
-      {
-        title: "Tầm Quan Trọng Của Vành Đai Tiểu Hành Tinh",
-        body: [
-          "Vành Đai Tiểu Hành Tinh đóng vai trò quan trọng trong việc nghiên cứu sự hình thành và tiến hóa của Hệ Mặt Trời.",
-          "Nó cung cấp các mẫu vật lý quan trọng để các nhà khoa học nghiên cứu về thành phần hóa học và cấu trúc của các tiểu hành tinh.",
-          "Việc nghiên cứu vành đai này cũng giúp chúng ta hiểu rõ hơn về các nguy cơ tiềm ẩn từ tiểu hành tinh có thể va chạm với Trái Đất.",
-        ],
-      },
-      {
-        title: "Khám Phá Và Nghiên Cứu",
-        body: [
-          "Các sứ mệnh không gian như Dawn của NASA đã mang lại nhiều thông tin quan trọng về Vesta và Ceres.",
-          "Các nhà khoa học sử dụng kính viễn vọng và các công nghệ tiên tiến để theo dõi và nghiên cứu các tiểu hành tinh trong vành đai.",
-          "Việc tiếp tục nghiên cứu Vành Đai Tiểu Hành Tinh sẽ giúp chúng ta có cái nhìn sâu sắc hơn về quá khứ và tương lai của Hệ Mặt Trời.",
-        ],
-      },
+      // {
+      //   title: "Tầm Quan Trọng Của Mặt Trời",
+      //   body: [
+      //     "Mặt Trời không chỉ cung cấp năng lượng và ánh sáng mà còn tạo ra các hiện tượng quan trọng như gió Mặt Trời và từ trường Mặt Trời. Gió Mặt Trời là dòng hạt tích điện di chuyển từ Mặt Trời ra không gian, ảnh hưởng đến từ trường của Trái Đất và tạo ra các hiện tượng như cực quang.",
+      //     "Từ trường Mặt Trời cũng gây ra các vết đen và lửa Mặt Trời, có thể ảnh hưởng đến khí hậu và các thiết bị điện tử trên Trái Đất.",
+      //   ],
+      // },
+      // {
+      //   title: "Vòng Đời Của Mặt Trời",
+      //   body: [
+      //     "Mặt Trời hiện đang ở giai đoạn chính của cuộc đời, giai đoạn đốt cháy hydro để sản sinh năng lượng.",
+      //     "Sau khoảng 5 tỷ năm nữa, Mặt Trời sẽ tiến vào giai đoạn sao khổng lồ đỏ, phình to và nuốt chửng các hành tinh gần kề như sao Thủy và sao Kim.",
+      //     "Cuối cùng, Mặt Trời sẽ suy yếu và biến thành sao lùn trắng.",
+      //   ],
+      // },
+      // {
+      //   title: "Ảnh Hưởng Đến Hệ Mặt Trời",
+      //   body: [
+      //     "Mặt Trời có ảnh hưởng quyết định đến tất cả các hành tinh trong Hệ Mặt Trời.",
+      //     "Nó giữ các hành tinh trong quỹ đạo bằng lực hấp dẫn của mình và điều chỉnh khí hậu của các hành tinh qua sự biến đổi năng lượng và ánh sáng.",
+      //   ],
+      // },
     ],
   },
   "3": {
     id: "3",
-    image: "https://genk.mediacdn.vn/2016/kuiper-belt-1474296780870.png",
-    title: "Vành Đai Kuiper - Vùng Biên Giới Xa Xôi Của Hệ Mặt Trời",
+    image: "https://static.robocon.com.vn/api/images/20170426/i.jpg",
+    title: "Khối when [phím] pressed trong Scratch",
     description:
-      "Vành Đai Kuiper là vùng không gian xa xôi nằm ngoài quỹ đạo của sao Hải Vương, chứa hàng ngàn thiên thể băng giá và các hành tinh lùn. Khu vực này đóng vai trò quan trọng trong việc hiểu rõ hơn về sự hình thành và tiến hóa của Hệ Mặt Trời.",
+      "là một phần của danh mục Events và được sử dụng để bắt đầu một đoạn mã khi một phím cụ thể trên bàn phím được nhấn. Đây là cách phổ biến để lập trình các phản hồi từ bàn phím trong các dự án Scratch, chẳng hạn như trò chơi hoặc hoạt hình tương tác.",
     content: [
       {
-        title: "Cấu Tạo Và Đặc Điểm Của Vành Đai Kuiper",
+        title: "Sử Dụng và Chức Năng",
         body: [
-          "Vành Đai Kuiper bắt đầu từ khoảng 30 đơn vị thiên văn (AU) và kéo dài đến khoảng 55 AU từ Mặt Trời.",
-          "Khu vực này chứa hàng ngàn thiên thể băng giá và các hành tinh lùn, bao gồm các vật thể lớn như Pluto, Haumea, Makemake và Eris.",
-          "Các thiên thể trong Vành Đai Kuiper chủ yếu được cấu tạo từ nước đá, metan, amoniac và các hợp chất hữu cơ.",
+          "Kích Hoạt Đoạn Mã Bằng Bàn Phím: Khi người dùng nhấn một phím cụ thể trên bàn phím, đoạn mã gắn với khối này sẽ được kích hoạt. Điều này cho phép bạn lập trình các hành động cụ thể xảy ra khi phím đó được nhấn.",
+          "Tạo Tương Tác Người Dùng: Khối này thường được sử dụng để tạo ra sự tương tác trong các trò chơi và ứng dụng. Ví dụ, bạn có thể sử dụng khối này để làm cho một nhân vật di chuyển, nhảy, hoặc thực hiện các hành động khác khi người dùng nhấn các phím mũi tên hoặc phím space (khoảng trắng).",
+          
         ],
       },
       {
-        title: "Nguồn Gốc Và Hình Thành",
+        title: "Các Bước Cụ Thể",
         body: [
-          "Vành Đai Kuiper được cho là tàn dư từ quá trình hình thành Hệ Mặt Trời, tương tự như Vành Đai Tiểu Hành Tinh nhưng ở khoảng cách xa hơn.",
-          "Các thiên thể trong Vành Đai Kuiper không hợp nhất thành hành tinh lớn do ảnh hưởng của lực hấp dẫn từ sao Hải Vương.",
-          "Vành Đai Kuiper chứa các vật liệu nguyên thủy từ thời kỳ đầu của Hệ Mặt Trời, cung cấp thông tin quý giá về điều kiện ban đầu của hệ hành tinh của chúng ta.",
+          "Thêm Khối:Mở trình chỉnh sửa Scratch. Từ danh mục Sự kiện (Events), kéo khối when [phím] pressed vào khu vực mã.Chọn phím mong muốn từ danh sách thả xuống. Bạn có thể chọn các phím như phím mũi tên, phím space, hoặc các phím chữ cái.",
+          "Tạo Đoạn Mã: Gắn các khối khác bên dưới khối when [phím] pressed để tạo thành một đoạn mã. Ví dụ, bạn có thể thêm các khối để di chuyển một sprite hoặc thay đổi hình dạng của nó khi phím được nhấn.",
+        ],
+      },
+      // {
+      //   title: "Các Trận Mưa Sao Băng Nổi Tiếng",
+      //   body: [
+      //     "Perseids: Xảy ra vào tháng 8 hàng năm, với điểm xuất phát từ chòm sao Perseus.",
+      //     "Geminids: Diễn ra vào tháng 12, với điểm xuất phát từ chòm sao Gemini.",
+      //     "Leonids: Xuất hiện vào tháng 11, với điểm xuất phát từ chòm sao Leo và có thể tạo ra các trận mưa sao băng rất mạnh.",
+      //   ],
+      // },
+      // },
+      // {
+      //   title: "Khám Phá Và Nghiên Cứu",
+      //   body: [
+      //     "Các sứ mệnh không gian như Dawn của NASA đã mang lại nhiều thông tin quan trọng về Vesta và Ceres.",
+      //     "Các nhà khoa học sử dụng kính viễn vọng và các công nghệ tiên tiến để theo dõi và nghiên cứu các tiểu hành tinh trong vành đai.",
+      //     "Việc tiếp tục nghiên cứu Vành Đai Tiểu Hành Tinh sẽ giúp chúng ta có cái nhìn sâu sắc hơn về quá khứ và tương lai của Hệ Mặt Trời.",
+      //   ],
+      // },
+    ],
+  },
+  "2": {
+    id: "2",
+    image: "https://genk.mediacdn.vn/2016/kuiper-belt-1474296780870.png",
+    title: "Khối khi bấm cờ xanh",
+    description:
+      "Nó được sử dụng để bắt đầu các tập lệnh khi người dùng nhấn vào lá cờ xanh ở góc trên bên phải của giao diện Scratch.",
+    content: [
+      {
+        title: "Khối khi bấm cờ xanh",
+        body: [
+          "Bắt đầu các đoạn mã: Khối khi bấm cờ xanh thường được sử dụng để bắt đầu các đoạn mã. Nó thường được đặt ở đầu một đoạn mã để xác định những gì sẽ xảy ra khi bắt đầu dự án.",
+          "Thiết lập ban đầu: Khối này thường được sử dụng để thiết lập các điều kiện ban đầu, chẳng hạn như định vị các đối tượng, thiết lập các biến số, hoặc khởi tạo sân khấu. Nó đảm bảo rằng mỗi lần bấm cờ xanh, dự án bắt đầu ở một trạng thái nhất quán.",
+          
         ],
       },
       {
-        title: "Tầm Quan Trọng Của Vành Đai Kuiper",
+        title: "Các bước cụ thể",
         body: [
-          "Vành Đai Kuiper là một trong những khu vực quan trọng nhất để nghiên cứu về sự hình thành và tiến hóa của Hệ Mặt Trời.",
-          "Nó cung cấp các mẫu vật lý quan trọng để các nhà khoa học nghiên cứu về thành phần hóa học và cấu trúc của các thiên thể băng giá.",
-          "Nghiên cứu Vành Đai Kuiper giúp hiểu rõ hơn về các hành tinh lùn và các vật thể băng giá khác, cũng như nguồn gốc của các sao chổi.",
+          "Thêm Khối:Mở trình chỉnh sửa Scratch.Từ danh mục Sự kiện, kéo khối khi bấm cờ xanh vào khu vực mã",
+          "Tạo Đoạn Mã: Gắn các khối khác bên dưới khối khi bấm cờ xanh để tạo thành một đoạn mã. Ví dụ, bạn có thể thêm một khối để di chuyển một đối tượng đến một vị trí cụ thể hoặc thay đổi trang phục của nó.",
         ],
       },
       {
-        title: "Khám Phá Và Nghiên Cứu",
+        title: "Chức năng",
         body: [
-          "Sứ mệnh New Horizons của NASA đã mang lại nhiều thông tin quan trọng về Pluto và các vật thể trong Vành Đai Kuiper.",
-          "Các nhà khoa học sử dụng kính viễn vọng và các công nghệ tiên tiến để theo dõi và nghiên cứu các thiên thể trong Vành Đai Kuiper.",
-          "Việc tiếp tục nghiên cứu Vành Đai Kuiper sẽ giúp chúng ta có cái nhìn sâu sắc hơn về quá khứ và tương lai của Hệ Mặt Trời, cũng như khả năng tồn tại của các hành tinh lùn và thiên thể băng giá khác.",
-        ],
+          "Khối này kích hoạt các tập lệnh được gắn liền với nó ngay lập tức khi lá cờ xanh được nhấp",
+          "Thường được sử dụng để khởi động các hành động khi bắt đầu một dự án, chẳng hạn như thiết lập các biến, đặt vị trí ban đầu của đối tượng, bắt đầu chuyển động hoặc âm thanh, và nhiều hành động khởi động khác.",
+       ],
       },
     ],
   },

@@ -98,9 +98,9 @@ export type Exercise = {
 
 export const excercises: Exercise[] = [
 	{
-		title: "Ô tô chạy",
-		description: "alooo",
-		image: require("../assets/practice1.png"),
+		title: "Ngôi sao 5 cánh",
+		description: "Viết chương trình vẽ ngôi sao 5 cánh",
+		image: require("../assets/ngoisaocodon.jpg"),
 	},
 	{
 		title: "Ô tô chạy",
@@ -108,13 +108,13 @@ export const excercises: Exercise[] = [
 		image: require("../assets/practice1.png"),
 	},
 	{
-		title: "Ô tô chạy",
-		description: "Viết chương trình mô tả chiếc ô tô chuyển động trên màn hình",
-		image: require("../assets/practice1.png"),
+		title: "Lưới ô vuông",
+		description: "Viết chương trình vẽ lưới ô vuông",
+		image: require("../assets/Ve_luoi_o_vuong_16a0fd5f12.png"),
 	},
 	{
-		title: "Ô tô chạy",
-		description: "Viết chương trình mô tả chiếc ô tô chuyển động trên màn hình",
-		image: require("../assets/practice1.png"),
+		title: "Trò chơi chọn màu đúng",
+		description: "Viết chương trình của trò chơi chọn màu đúng",
+		image: require("../assets/Chon_mau_dung_18d5685138.png"),
 	},
 ];
