@@ -209,7 +209,7 @@ export const commonData: IObjectData = {
   "1": {
     id: "1",
     image:
-      "https://dienmattroigio.com/wp-content/uploads/2022/11/trai-dat-va-mat-troi.jpg",
+      "https://scratch.mit.edu/images/scratch-og.png",
       title: "Scratch là gì",
       description:
         "Scratch là một ngôn ngữ lập trình trực quan và môi trường phát triển được thiết kế chủ yếu cho trẻ em và người mới bắt đầu học lập trình.",
@@ -220,7 +220,7 @@ export const commonData: IObjectData = {
             "Nó được phát triển bởi Lifelong Kindergarten Group tại MIT Media Lab.",
           ],
           image:
-            "https://cdnphoto.dantri.com.vn/b0WWpuZsz9YTS_gI-Gp7Xet6sBs=/thumb_w/1020/2022/11/30/vutru-crop-1669768098200.jpeg",
+            "https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/02wchouritvxqgixxoeagap-2.fit-scale.size-760x427.v1569482197_ver_1.jpg",
         },
         {
           title: "Đặc điểm nổi bật của Scratch",
@@ -256,7 +256,7 @@ export const commonData: IObjectData = {
   },
   "3": {
     id: "3",
-    image: "https://static.robocon.com.vn/api/images/20170426/i.jpg",
+    image: "https://scratch.mit.edu/images/scratch-og.pnghttps://cs20.ca/_images/scratch_key_pressed_block.png",
     title: "Khối when [phím] pressed trong Scratch",
     description:
       "là một phần của danh mục Events và được sử dụng để bắt đầu một đoạn mã khi một phím cụ thể trên bàn phím được nhấn. Đây là cách phổ biến để lập trình các phản hồi từ bàn phím trong các dự án Scratch, chẳng hạn như trò chơi hoặc hoạt hình tương tác.",
@@ -297,7 +297,7 @@ export const commonData: IObjectData = {
   },
   "2": {
     id: "2",
-    image: "https://genk.mediacdn.vn/2016/kuiper-belt-1474296780870.png",
+    image: "https://scratch.oneoffcoder.com/_images/00-when-green-flag-clicked.png",
     title: "Khối khi bấm cờ xanh",
     description:
       "Nó được sử dụng để bắt đầu các tập lệnh khi người dùng nhấn vào lá cờ xanh ở góc trên bên phải của giao diện Scratch.",
@@ -329,41 +329,22 @@ export const commonData: IObjectData = {
   "4": {
     id: "4",
     image:
-      "https://media-cdn-v2.laodong.vn/storage/newsportal/2021/6/7/917634/Sao-Choi.jpg?w=800&h=496&crop=auto&scale=both",
-    title: "Mây Oort - Vùng Biên Giới Xa Xôi Nhất Của Hệ Mặt Trời",
+      "https://d1ng1bucl7w66k.cloudfront.net/ghost-blog/2022/07/Screen-Shot-2022-07-26-at-2.02.14-PM.png",
+    title: "Go to X: Go to Y: block",
     description:
-      "Mây Oort là một vùng bao quanh Hệ Mặt Trời, chứa hàng tỷ thiên thể băng giá. Được cho là nguồn gốc của các sao chổi dài hạn, Mây Oort giúp chúng ta hiểu rõ hơn về biên giới của hệ hành tinh của chúng ta.",
+      "Khối Go to x: y: trong Scratch là một khối chuyển động được sử dụng để di chuyển một đối tượng (sprite) đến một vị trí cụ thể trên sân khấu (stage) dựa trên tọa độ x và y. Đây là một khối rất hữu ích khi bạn muốn đối tượng di chuyển ngay lập tức đến một điểm xác định mà không cần phải từ từ di chuyển qua các bước.",
     content: [
       {
-        title: "Cấu Tạo Và Đặc Điểm Của Mây Oort",
+        title: "Chức năng",
         body: [
-          "Mây Oort là một vùng rộng lớn bao quanh Hệ Mặt Trời, bắt đầu từ khoảng 2.000 đến 5.000 đơn vị thiên văn (AU) và kéo dài đến khoảng 100.000 AU từ Mặt Trời.",
-          "Khu vực này chứa hàng tỷ thiên thể băng giá, chủ yếu là các hạt nhỏ và các sao chổi tiềm năng.",
-          "Các thiên thể trong Mây Oort chủ yếu được cấu tạo từ nước đá, metan, amoniac và các hợp chất hữu cơ, tương tự như các sao chổi.",
+          "Khối này sẽ di chuyển đối tượng đến tọa độ (x, y) cụ thể trên sân khấu ngay lập tức.",
+          "Tọa độ x và y xác định vị trí của đối tượng trên sân khấu:  x: Tọa độ ngang (trục hoành). Xác định vị trí từ trái sang phải, với 0 là trung tâm, giá trị dương về phía bên phải và giá trị âm về phía bên trái.   y: Tọa độ dọc (trục tung). Xác định vị trí từ trên xuống dưới, với 0 là trung tâm, giá trị dương lên trên và giá trị âm xuống dưới."
         ],
       },
       {
-        title: "Nguồn Gốc Và Hình Thành",
+        title: "Kết luận",
         body: [
-          "Mây Oort được cho là tàn dư từ quá trình hình thành Hệ Mặt Trời, bao gồm các vật chất bị đẩy ra khỏi vùng trong của hệ hành tinh do tương tác hấp dẫn với các hành tinh khổng lồ.",
-          "Lực hấp dẫn từ các ngôi sao gần đó và từ dải Ngân Hà giữ các thiên thể trong Mây Oort ở vị trí xa xôi này.",
-          "Các thiên thể trong Mây Oort cung cấp thông tin quý giá về điều kiện ban đầu của Hệ Mặt Trời và các quá trình tương tác hấp dẫn trong quá khứ.",
-        ],
-      },
-      {
-        title: "Tầm Quan Trọng Của Mây Oort",
-        body: [
-          "Mây Oort là nguồn gốc của các sao chổi dài hạn, các sao chổi có quỹ đạo kéo dài hàng ngàn năm để quay lại gần Mặt Trời.",
-          "Nghiên cứu về Mây Oort giúp hiểu rõ hơn về biên giới và cấu trúc của Hệ Mặt Trời, cũng như nguồn gốc của các sao chổi và các vật thể băng giá khác.",
-          "Việc khám phá Mây Oort có thể cung cấp thêm thông tin về các quá trình tương tác hấp dẫn giữa các thiên thể trong Hệ Mặt Trời và các ngôi sao lân cận.",
-        ],
-      },
-      {
-        title: "Khám Phá Và Nghiên Cứu",
-        body: [
-          "Hiện nay, chưa có sứ mệnh không gian nào tiếp cận trực tiếp Mây Oort, nhưng các nhà khoa học sử dụng các kính viễn vọng và mô phỏng máy tính để nghiên cứu khu vực này.",
-          "Các sao chổi dài hạn quan sát được là những bằng chứng gián tiếp về sự tồn tại của Mây Oort.",
-          "Việc tiếp tục nghiên cứu Mây Oort sẽ giúp chúng ta hiểu rõ hơn về nguồn gốc và cấu trúc của các sao chổi, cũng như lịch sử hình thành và tiến hóa của Hệ Mặt Trời.",
+         " Khối Go to x: y: là một khối cơ bản nhưng rất mạnh mẽ trong Scratch, cho phép bạn kiểm soát chính xác vị trí của đối tượng trên sân khấu. Nó thường được sử dụng trong các trò chơi, hoạt hình, và nhiều dự án khác khi bạn cần di chuyển đối tượng một cách chính xác và nhanh chóng."
         ],
       },
     ],
@@ -371,41 +352,22 @@ export const commonData: IObjectData = {
   "5": {
     id: "5",
     image:
-      "https://thoitietso.com/media/2024/01/15/images/hien-tuong-bao-mat-troi-chinh-la-su-xao-tron-trong-ngoai-nhat-khuyen.JPG",
-    title: "Bão Mặt Trời - Hiện Tượng Vũ Trụ Đầy Sức Mạnh",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOty1_JaKZ1TTDKP88ZrdgkICnWFs7GHoyw&s",
+    title: "When this sprite clicked",
     description:
-      "Bão Mặt Trời là các hiện tượng bùng nổ năng lượng từ Mặt Trời, có khả năng ảnh hưởng đến Trái Đất và các hệ thống điện tử. Hiểu rõ về bão Mặt Trời giúp chúng ta chuẩn bị và giảm thiểu các tác động tiêu cực từ các sự kiện này.",
+      "Khối When this sprite clicked trong Scratch là một khối sự kiện, được sử dụng để kích hoạt một tập lệnh khi người dùng nhấp chuột vào đối tượng (sprite) cụ thể trên sân khấu.",
     content: [
       {
-        title: "Cấu Tạo Và Đặc Điểm Của Bão Mặt Trời",
+        title: "Chức năng",
         body: [
-          "Bão Mặt Trời bao gồm các hiện tượng như sự bùng phát mặt trời (solar flare) và sự phóng đại lượng plasma (coronal mass ejection - CME) từ bề mặt Mặt Trời.",
-          "Các sự kiện này phát ra một lượng lớn năng lượng và hạt tích điện vào không gian, có thể tương tác với từ trường và khí quyển của Trái Đất.",
-          "Bão Mặt Trời thường xảy ra trong các chu kỳ hoạt động của Mặt Trời, với chu kỳ 11 năm là phổ biến nhất.",
+          "Khối này bắt đầu thực hiện các tập lệnh liên kết với nó khi người dùng nhấp chuột vào đối tượng trên sân khấu.",
+          "Nó thường được sử dụng để tạo các hành động như phát âm thanh, thay đổi hình dáng (costume), di chuyển đối tượng, hoặc thực hiện bất kỳ tập lệnh nào khác khi đối tượng được nhấp."
         ],
       },
       {
-        title: "Nguồn Gốc Và Hình Thành",
+        title: "Kết luận",
         body: [
-          "Bão Mặt Trời bắt nguồn từ các vùng hoạt động mạnh trên bề mặt Mặt Trời, nơi các dòng từ trường phức tạp tạo ra các sự kiện bùng phát năng lượng.",
-          "Sự bùng phát mặt trời (solar flare) là sự gia tăng nhanh chóng của bức xạ điện từ, trong khi CME là sự phóng đại lượng plasma và từ trường ra ngoài không gian.",
-          "Các sự kiện này có thể xảy ra đồng thời hoặc riêng lẻ, và đều có thể ảnh hưởng đến Trái Đất.",
-        ],
-      },
-      {
-        title: "Tầm Quan Trọng Của Bão Mặt Trời",
-        body: [
-          "Bão Mặt Trời có thể gây ra các hiện tượng như cực quang (aurora) và làm gián đoạn các hệ thống thông tin liên lạc và định vị toàn cầu (GPS).",
-          "Các sự kiện bão mạnh có thể ảnh hưởng đến lưới điện và gây hư hỏng các thiết bị điện tử trên Trái Đất.",
-          "Nghiên cứu về bão Mặt Trời giúp chúng ta dự đoán và chuẩn bị cho các sự kiện này, giảm thiểu các tác động tiêu cực đến đời sống và công nghệ.",
-        ],
-      },
-      {
-        title: "Khám Phá Và Nghiên Cứu",
-        body: [
-          "Các sứ mệnh không gian như Solar and Heliospheric Observatory (SOHO) và Parker Solar Probe của NASA đã cung cấp nhiều thông tin quan trọng về bão Mặt Trời.",
-          "Các nhà khoa học sử dụng các kính viễn vọng và các công nghệ tiên tiến để theo dõi và dự đoán các sự kiện bão Mặt Trời.",
-          "Việc tiếp tục nghiên cứu bão Mặt Trời sẽ giúp chúng ta cải thiện khả năng dự đoán và giảm thiểu tác động của các sự kiện này đến Trái Đất và các hoạt động của con người.",
+          "Khối When this sprite clicked là một khối sự kiện quan trọng trong Scratch, cho phép bạn tạo ra các tương tác trực tiếp với người dùng thông qua việc nhấp chuột vào đối tượng. Nó mở ra nhiều khả năng sáng tạo trong việc lập trình các trò chơi, hoạt hình, và các dự án tương tác khác trong Scratch."
         ],
       },
     ],
@@ -415,82 +377,49 @@ export const planetData: IObjectData = {
   "7": {
     id: "7",
     image:
-      "https://cdnphoto.dantri.com.vn/uNW6Vuad4Re3_gWMbtQHfIbP37s=/thumb_w/1020/2023/03/28/mercury-1679964412501.jpg",
-    title: "Sao Thủy - Hành Tinh Gần Mặt Trời Nhất",
+      "https://d33v4339jhl8k0.cloudfront.net/docs/assets/59a467f72c7d3a73488c5cff/images/59b9f384042863033a1cd396/file-3MCchbVcf1.jpg",
+    title: "Khối change X by ",
     description:
-      "Sao Thủy là hành tinh gần Mặt Trời nhất trong Hệ Mặt Trời và có kích thước nhỏ nhất. Với bề mặt đầy miệng núi lửa và sự biến đổi nhiệt độ cực đoan, Sao Thủy là một hành tinh thú vị để nghiên cứu.",
+      "Khối Change x by trong Scratch là một khối chuyển động dùng để thay đổi vị trí ngang (tọa độ x) của một đối tượng (sprite) trên sân khấu. Khối này giúp đối tượng di chuyển sang trái hoặc phải một khoảng cách nhất định.",
     content: [
       {
-        title: "Cấu Tạo Và Đặc Điểm Của Sao Thủy",
+        title: "Chức năng",
         body: [
-          "Sao Thủy có bán kính khoảng 2.440 km, chỉ lớn hơn một chút so với Mặt Trăng của Trái Đất.",
-          "Bề mặt của Sao Thủy đầy các miệng núi lửa, tương tự như bề mặt của Mặt Trăng, chứng tỏ hành tinh này đã chịu nhiều va chạm từ các thiên thạch.",
-          "Sao Thủy có lõi sắt lớn, chiếm khoảng 75% bán kính hành tinh, khiến nó có mật độ cao thứ hai trong Hệ Mặt Trời.",
+          "Khối này thay đổi giá trị của tọa độ x của đối tượng theo một lượng nhất định.",
+          "Giá trị dương: Di chuyển đối tượng sang phải (tăng tọa độ x).",
+          "Giá trị âm: Di chuyển đối tượng sang trái (giảm tọa độ x).",
         ],
       },
       {
-        title: "Quỹ Đạo Và Chu Kỳ Quay",
+        title: "Kết luận",
         body: [
-          "Sao Thủy có quỹ đạo hình elip, với khoảng cách trung bình từ Mặt Trời khoảng 57,9 triệu km.",
-          "Một năm trên Sao Thủy (thời gian để quay quanh Mặt Trời) kéo dài khoảng 88 ngày Trái Đất.",
-          "Một ngày trên Sao Thủy (thời gian để quay quanh trục của mình) kéo dài khoảng 59 ngày Trái Đất.",
+          "Khối Change x by là một công cụ hữu ích trong Scratch để di chuyển đối tượng theo chiều ngang trên sân khấu. Nó rất linh hoạt và có thể kết hợp với các khối khác để tạo ra các chuyển động phức tạp và mượt mà trong các dự án Scratch.",
         ],
       },
-      {
-        title: "Khí Hậu Và Nhiệt Độ",
-        body: [
-          "Do không có khí quyển dày, nhiệt độ trên Sao Thủy biến đổi cực đoan, từ -173 độ C vào ban đêm đến 427 độ C vào ban ngày.",
-          "Không có khí quyển để giữ nhiệt, bề mặt Sao Thủy nóng lên nhanh chóng khi tiếp xúc với Mặt Trời và nguội đi nhanh chóng khi quay ra phía tối.",
-        ],
-      },
-      {
-        title: "Khám Phá Và Nghiên Cứu",
-        body: [
-          "Sứ mệnh Mariner 10 của NASA vào thập niên 1970 đã cung cấp những hình ảnh đầu tiên về bề mặt Sao Thủy.",
-          "Sứ mệnh MESSENGER của NASA, kết thúc vào năm 2015, đã cung cấp thông tin chi tiết về thành phần hóa học, cấu trúc và lịch sử địa chất của Sao Thủy.",
-          "Sứ mệnh BepiColombo, một dự án hợp tác giữa ESA và JAXA, hiện đang trên đường đến Sao Thủy và dự kiến sẽ cung cấp thêm nhiều thông tin giá trị về hành tinh này.",
-        ],
-      },
+     
     ],
   },
   "8": {
     id: "8",
     image:
-      "https://kenh14cdn.com/Images/Uploaded/Share/2010/10/25/2610201002Venus.jpg",
-    title: "Sao Kim - Hành Tinh Rực Rỡ Và Nóng Bỏng",
+      "https://o.quizlet.com/DLa9-u5Ct213P2Puq.ddWw.jpg",
+    title: "Khối Change Y by ",
     description:
-      "Sao Kim là hành tinh thứ hai tính từ Mặt Trời và có kích thước tương đương với Trái Đất. Tuy nhiên, với bầu khí quyển dày đặc và nhiệt độ bề mặt cao nhất trong Hệ Mặt Trời, Sao Kim là một hành tinh đầy thách thức và kỳ bí.",
+      "Khối Change y by trong Scratch là một khối chuyển động được sử dụng để thay đổi vị trí dọc (tọa độ y) của một đối tượng (sprite) trên sân khấu. Khối này giúp đối tượng di chuyển lên hoặc xuống một khoảng cách nhất định.",
     content: [
       {
-        title: "Cấu Tạo Và Đặc Điểm Của Sao Kim",
+        title: "Chức năng",
         body: [
-          "Sao Kim có đường kính khoảng 12.104 km, chỉ nhỏ hơn Trái Đất một chút.",
-          "Bề mặt của Sao Kim chủ yếu là các đồng bằng bazan với một số núi lửa và các cấu trúc địa chất độc đáo như rãnh nứt và cao nguyên.",
-          "Lớp vỏ của Sao Kim được cấu tạo chủ yếu từ silicat và sắt, tương tự như Trái Đất.",
+          "Khối này thay đổi giá trị của tọa độ y của đối tượng theo một lượng nhất định.",
+          "Giá trị dương: Di chuyển đối tượng lên trên (tăng tọa độ y).",
+          "Giá trị âm: Di chuyển đối tượng xuống dưới (giảm tọa độ y).",
         ],
       },
       {
-        title: "Quỹ Đạo Và Chu Kỳ Quay",
+        title: "Kết luận",
         body: [
-          "Sao Kim quay quanh Mặt Trời ở khoảng cách trung bình 108,2 triệu km.",
-          "Một năm trên Sao Kim kéo dài khoảng 225 ngày Trái Đất.",
-          "Một ngày trên Sao Kim (thời gian để quay quanh trục của mình) kéo dài khoảng 243 ngày Trái Đất và nó quay theo chiều ngược lại so với hầu hết các hành tinh khác.",
-        ],
-      },
-      {
-        title: "Khí Hậu Và Nhiệt Độ",
-        body: [
-          "Bầu khí quyển của Sao Kim chủ yếu là khí CO2, với áp suất khí quyển cao gấp 92 lần áp suất khí quyển của Trái Đất.",
-          "Nhiệt độ bề mặt Sao Kim cực kỳ cao, trung bình khoảng 467 độ C, do hiệu ứng nhà kính mạnh mẽ.",
-          "Các đám mây dày đặc axit sulfuric che phủ toàn bộ hành tinh, khiến việc quan sát bề mặt từ không gian rất khó khăn.",
-        ],
-      },
-      {
-        title: "Khám Phá Và Nghiên Cứu",
-        body: [
-          "Sứ mệnh Mariner 2 của NASA năm 1962 là tàu vũ trụ đầu tiên bay qua và nghiên cứu Sao Kim.",
-          "Các sứ mệnh của Venera của Liên Xô vào thập niên 1970 và 1980 đã gửi các tàu đổ bộ xuống bề mặt Sao Kim, cung cấp hình ảnh và dữ liệu quý giá.",
-          "Gần đây, các sứ mệnh như Akatsuki của Nhật Bản và các kế hoạch của NASA và ESA hứa hẹn sẽ tiếp tục nghiên cứu và khám phá bí ẩn của Sao Kim.",
+          "Khối Change y by là một công cụ hữu ích trong Scratch để di chuyển đối tượng theo chiều dọc trên sân khấu. Nó rất linh hoạt và có thể kết hợp với các khối khác để tạo ra các chuyển động phức tạp và mượt mà, giúp làm phong phú thêm các dự án Scratch của bạn."
+
         ],
       },
     ],
@@ -498,99 +427,51 @@ export const planetData: IObjectData = {
   "9": {
     id: "9",
     image:
-      "https://imagev3.vietnamplus.vn/w1000/Uploaded/2024/rutmbn/2022_08_08/earth.jpg.webp",
-    title: "Trái Đất - Hành Tinh Xanh Đẹp Và Đầy Sự Sống",
+      "https://www.csteachingtips.org/images/setX0.png",
+    title: "Khối Set X By ",
     description:
-      "Trái Đất là hành tinh duy nhất trong Hệ Mặt Trời được biết đến có sự sống. Với khí quyển giàu oxy, nước và điều kiện khí hậu ổn định, Trái Đất là ngôi nhà của hàng triệu loài động thực vật và con người.",
+      "Khối Set x to trong Scratch là một khối chuyển động được sử dụng để đặt giá trị tọa độ x của một đối tượng (sprite) về một giá trị cụ thể. Khối này giúp bạn xác định chính xác vị trí ngang của đối tượng trên sân khấu.",
     content: [
       {
-        title: "Cấu Tạo Và Đặc Điểm Của Trái Đất",
+        title: "Chức năng",
         body: [
-          "Trái Đất có đường kính khoảng 12.742 km và khối lượng xấp xỉ 5,97 x 10^24 kg.",
-          "Trái Đất có cấu trúc bao gồm ba lớp chính: lớp vỏ (crust), lớp manti (mantle), và lõi (core).",
-          "Lớp vỏ bao gồm lớp vỏ đại dương và lớp vỏ lục địa, lớp manti là lớp đá nóng chảy dưới vỏ và lõi chia thành lõi ngoài và lõi trong, với lõi ngoài là một lớp sắt lỏng và lõi trong là một lớp sắt rắn.",
+          "Khối này đặt giá trị của tọa độ x của đối tượng bằng một giá trị cụ thể mà bạn chỉ định.",
+          "Khi khối này được thực thi, đối tượng sẽ di chuyển ngay lập tức đến vị trí ngang tương ứng với giá trị x đã đặt.",
         ],
       },
       {
-        title: "Quỹ Đạo Và Chu Kỳ Quay",
+        title: "Kết luận",
         body: [
-          "Trái Đất quay quanh Mặt Trời ở khoảng cách trung bình 149,6 triệu km, với một năm kéo dài khoảng 365,25 ngày.",
-          "Trái Đất quay quanh trục của mình trong khoảng 24 giờ, tạo ra các chu kỳ ngày và đêm.",
-          "Trái Đất có trục nghiêng 23,5 độ so với mặt phẳng quỹ đạo của nó, gây ra các mùa trên hành tinh.",
+          "Khối Set x to là một công cụ mạnh mẽ trong Scratch giúp bạn kiểm soát vị trí ngang của đối tượng một cách chính xác. Nó rất hữu ích trong việc thiết lập hoặc điều chỉnh vị trí của đối tượng trong các trò chơi, hoạt hình, và các dự án tương tác khác."
+
+
         ],
       },
-      {
-        title: "Khí Hậu Và Môi Trường",
-        body: [
-          "Khí quyển của Trái Đất chủ yếu bao gồm khí nitơ (78%), oxy (21%) và các khí khác như argon và carbon dioxide.",
-          "Trái Đất có ba lớp khí quyển chính: tầng đối lưu (troposphere), tầng bình lưu (stratosphere), và tầng trung lưu (mesosphere), với tầng nhiệt đới (thermosphere) và tầng exosphere nằm ngoài cùng.",
-          "Nước trên Trái Đất chiếm khoảng 71% bề mặt, với đại dương, biển, hồ và sông là các nguồn nước chủ yếu.",
-        ],
-      },
-      {
-        title: "Sự Sống Trên Trái Đất",
-        body: [
-          "Trái Đất là nơi có sự sống phong phú và đa dạng, bao gồm các loài động vật, thực vật, nấm và vi khuẩn.",
-          "Hệ sinh thái của Trái Đất bao gồm nhiều môi trường sống khác nhau như rừng mưa nhiệt đới, sa mạc, bãi cỏ, và đại dương, mỗi môi trường hỗ trợ các loại sự sống khác nhau.",
-          "Sự sống trên Trái Đất phụ thuộc vào các yếu tố như nước, ánh sáng mặt trời, khí hậu và sự cân bằng của các chất dinh dưỡng trong môi trường.",
-        ],
-      },
-      {
-        title: "Khám Phá Và Nghiên Cứu",
-        body: [
-          "Trái Đất đã được khám phá và nghiên cứu qua nhiều sứ mệnh không gian, bao gồm các vệ tinh và tàu vũ trụ như Voyager, Landsat và các sứ mệnh khác.",
-          "Các nghiên cứu về khí quyển, môi trường và sự sống trên Trái Đất cung cấp thông tin quan trọng về biến đổi khí hậu, ô nhiễm và bảo vệ môi trường.",
-          "Các dự án như NASA's Earth Science Division và các tổ chức nghiên cứu quốc tế tiếp tục theo dõi và phân tích sự thay đổi của Trái Đất để hiểu rõ hơn về hành tinh của chúng ta.",
-        ],
-      },
+      
     ],
   },
   "10": {
     id: "10",
     image:
-      "https://thienvanhanoi.org/wp-content/uploads/2017/12/57bc5d831600002900bfdd6e.jpeg",
-    title: "Sao Mộc - Hành Tinh Lớn Nhất Trong Hệ Mặt Trời",
+      "https://miro.medium.com/v2/resize:fit:556/1*JWh8n4Rlw1VPbADkMbZUyA.png",
+    title: "Khối Point in direction",
     description:
-      "Sao Mộc là hành tinh lớn nhất trong Hệ Mặt Trời và có khối lượng gấp 2,5 lần tổng khối lượng của tất cả các hành tinh khác cộng lại. Với hệ thống các vành đai và nhiều vệ tinh, Sao Mộc là một đối tượng nghiên cứu hấp dẫn trong thiên văn học.",
+      "Khối Point in direction trong Scratch là một khối chuyển động được sử dụng để xoay hoặc hướng đối tượng (sprite) theo một hướng cụ thể trên sân khấu. Khối này cho phép bạn điều chỉnh hướng mà đối tượng sẽ di chuyển hoặc quay đầu.",
     content: [
       {
-        title: "Cấu Tạo Và Đặc Điểm Của Sao Mộc",
+        title: "Chức năng",
         body: [
-          "Sao Mộc có đường kính khoảng 139.820 km và khối lượng xấp xỉ 1,9 x 10^27 kg.",
-          "Sao Mộc chủ yếu được cấu tạo từ hydro (khoảng 90%) và heli (khoảng 10%), tương tự như Mặt Trời.",
-          "Sao Mộc có lõi rắn nhỏ, bao quanh bởi một lớp chất lỏng kim loại hydro dày đặc và các lớp khí.",
+          "Khối này thay đổi hướng mà đối tượng đang hướng về, được đo bằng độ:",
+          "0 độ: Hướng lên trên.",
+          "90 độ: Hướng sang phải.",
+          "180 độ: Hướng xuống dưới.",
+          "-90 độ hoặc 270 độ: Hướng sang trái.",
         ],
       },
       {
-        title: "Quỹ Đạo Và Chu Kỳ Quay",
+        title: "Kết luận",
         body: [
-          "Sao Mộc quay quanh Mặt Trời ở khoảng cách trung bình 778 triệu km, với một năm kéo dài khoảng 11,86 năm Trái Đất.",
-          "Một ngày trên Sao Mộc (thời gian để quay quanh trục của mình) chỉ kéo dài khoảng 10 giờ, là một trong những ngày ngắn nhất trong Hệ Mặt Trời.",
-          "Sao Mộc có tốc độ quay nhanh, tạo ra một hệ thống các đám mây và các dải khí quyển phức tạp.",
-        ],
-      },
-      {
-        title: "Khí Hậu Và Thời Tiết",
-        body: [
-          "Sao Mộc có các đám mây dày đặc và hệ thống bão phức tạp, bao gồm Cơn Bão Lớn Đỏ nổi tiếng, đã tồn tại hàng trăm năm.",
-          "Nhiệt độ tại tầng mây trên của Sao Mộc dao động từ -145 độ C, trong khi lõi có thể nóng lên đến khoảng 24.000 độ C.",
-          "Sao Mộc phát ra nhiều nhiệt hơn so với lượng nhận từ Mặt Trời, do quá trình co lại và phát nhiệt của hành tinh.",
-        ],
-      },
-      {
-        title: "Hệ Thống Vành Đai Và Vệ Tinh",
-        body: [
-          "Sao Mộc có một hệ thống vành đai mỏng, chủ yếu được cấu tạo từ bụi và các hạt nhỏ.",
-          "Sao Mộc có ít nhất 79 vệ tinh được biết đến, trong đó lớn nhất là Ganymede, Callisto, Io và Europa, còn được gọi là các vệ tinh Galilean.",
-          "Các vệ tinh Galilean đều có đặc điểm và cấu tạo độc đáo, với Europa có khả năng chứa đại dương nước lỏng dưới lớp băng.",
-        ],
-      },
-      {
-        title: "Khám Phá Và Nghiên Cứu",
-        body: [
-          "Sứ mệnh Galileo của NASA vào những năm 1990 đã cung cấp nhiều thông tin chi tiết về Sao Mộc và các vệ tinh của nó.",
-          "Tàu vũ trụ Juno của NASA, hiện đang hoạt động, tiếp tục nghiên cứu Sao Mộc để hiểu rõ hơn về cấu trúc, từ trường và khí quyển của hành tinh.",
-          "Các sứ mệnh trong tương lai như Europa Clipper của NASA dự kiến sẽ khám phá các vệ tinh của Sao Mộc để tìm kiếm dấu hiệu của sự sống.",
+          "Khối Point in direction là một khối quan trọng trong Scratch, cho phép bạn kiểm soát hướng mà đối tượng hướng tới. Nó rất hữu ích trong việc điều khiển hướng di chuyển của đối tượng và tạo ra các hành vi phức tạp trong các trò chơi và hoạt hình.",
         ],
       },
     ],
